@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/vollydemo/app/src/main/res/drawable/circle.xml" value="0.19583333333333333" />
+        <entry key="..\:/vollydemo/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/vollydemo/app/src/main/res/layout/activity_showdata1.xml" value="0.1796875" />
+        <entry key="..\:/vollydemo/app/src/main/res/layout/activity_showdata2.xml" value="0.1796875" />
+        <entry key="..\:/vollydemo/app/src/main/res/layout/custom_layout.xml" value="0.1796875" />
+        <entry key="..\:/vollydemo/app/src/main/res/layout/showdata.xml" value="0.1796875" />
+        <entry key="..\:/vollydemo/app/src/main/res/xml/showdata.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
